@@ -1,0 +1,18 @@
+Name - Description
+
+
+print("text") - prints "text"
+
+print(count) - prints the current count
+
+count(int) - Increases count by int
+
+[Loop] id - Starts or ends a loop, exits loop if count == 0 (Capitlization case-sensitive) (Loop amount limit 50)
+
+printcount() - Prints current count as ASCII code
+
+pushstack() - Adds current count as ASCII code to string
+
+readstack() - Prints current ASCII count stack
+
+cursor(int) - Move cursor by int (cursor can move 25 negative or positive)
